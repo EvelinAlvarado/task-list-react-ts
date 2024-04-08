@@ -19,14 +19,14 @@ export const ToDoApp = () => {
   return (
     <div>
       <h1>Task List</h1>
-      <div>
+      <div className="flex">
         <input
           type="text"
           value={newTask}
           onChange={(e) => setNewTask(e.target.value)}
           placeholder="New task"
         />
-        <button onClick={handleAppTask}>Add</button>
+        <button onClick={handleAppTask}>Add New Task</button>
       </div>
       <TasksList taskList={taskList} deleteTask={handleDeleteTask}></TasksList>
     </div>
