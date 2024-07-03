@@ -23,11 +23,7 @@ Task List App is a simple web application developed as a first-time project usin
 
 <div align="center" >
   <!-- Replace with actual screenshots -->
-  <img src="public/screenshot1.jpeg" width="80%" />
-  <br/><br/>
-  <img src="public/screenshot2.jpeg" width="40%" /> 
-   <br/><br/>
-  <img src="public/screenshot3.jpeg" width="20%" /> 
+  <img src="src/assets/Macbook-Air-task-list-react-ts.vercel.app.png" width="80%" />
 </div>
 
 ## Additional Information
